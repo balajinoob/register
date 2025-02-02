@@ -1,1 +1,12 @@
-
+{
+    "description": "domain to showcase my person interest towards programming and to showcase my future works",
+    "repo": "https://github.com/balajinoob",
+    "owner": {
+      "username": "balajinoob",
+      "email": "balaji2k30@gmail.com"
+    },
+    "record": {
+      "CNAME": "balajinoob.github.io"
+    },
+    "proxied": true
+  }
